@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rodrigo A. Lobos"
+title                    : "Javiera Jilberto"
 title_separator          : "-"
-name                     : &name "Rodrigo A. Lobos"
+name                     : &name "Javiera Jilberto"
 description              : &description "personal description"
-url                      : https://ralobos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://javijv4.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ralobos.github.io"
+repository               : "javijv4.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rodrigo A. Lobos"
-  avatar           : "pic_rl_scaled579.jpg"
-  bio              : "Postdoctoral Researcher at University of Michigan <b>rlobos@umich.edu </b>"
+  name             : "Javiera Jilberto"
+  avatar           : "jjv_580x651.jpeg"
+  bio              : "PhD candidate at University of Michigan <b>rlobos@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Javiera Jilberto"
   avatar           : "jjv_580x651.jpeg"
-  bio              : "PhD candidate at University of Michigan <b>rlobos@umich.edu </b>"
+  bio              : "PhD candidate at University of Michigan <b>jilberto@umich.edu </b>"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=J7WSE60AAAAJ&hl=en&oi=ao"
-  email            : #"rlobos@usc.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=sn9CJhYAAAAJ&hl=en"
+  email            : "jilberto@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
